@@ -34,7 +34,7 @@ This extension is not yet on the addons store. You can install it manually:
 
 ## 🛠️ Usage
 
-1.  Go to your [X.com Profile](https://x.com/home) -> **Posts** tab.
+1.  Go to your X Profile -> **Posts** tab.
 2.  Click the extension icon in the toolbar.
 3.  Click **Start Deleting**.
 4.  Sit back and watch the cleanup! 🧹
