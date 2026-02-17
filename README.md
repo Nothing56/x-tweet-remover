@@ -16,6 +16,11 @@ I built this because most "mass tweet deleter" services charge monthly subscript
 - **Clean UI:** Safely closes menus if a tweet cannot be deleted, keeping your screen clutter-free.
 - **Manifest V2:** Uses Manifest V2 for better persistent performance on Firefox-based browsers.
 
+> [!IMPORTANT]
+
+> **Language Requirement:** This extension relies on text matching. Your X (Twitter) display language **must** be set to **English** or **Turkish**. Other languages are not supported.
+>Deleted tweets cannot be recovered. Use at your own risk.
+
 ## 📦 Installation
 
 This extension is not yet on the addons store. You can install it manually:
@@ -35,7 +40,6 @@ This extension is not yet on the addons store. You can install it manually:
 4.  Sit back and watch the cleanup! 🧹
 5.  Click **Stop** anytime to pause the process.
 
-> **Warning:** Deleted tweets cannot be recovered. Use at your own risk.
 
 ## 🤝 Contributing & License
 
